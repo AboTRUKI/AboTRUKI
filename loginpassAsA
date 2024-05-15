@@ -1,7 +1,7 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
+<!-- saved from url=(0129)file:///C:/Users/Saudi%20Gamerz/%D8%B3%D9%83%D8%B1%D8%A8%D8%AA%D8%A7%D8%AA%20%D8%A7%D8%B9%D9%85%D8%A7%D9%84/index.html/index.html -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>تسجيل الدخول</title>
 <style>
@@ -54,7 +54,7 @@
 <body>
 <div class="container">
     <h2>تسجيل الدخول</h2>
-    <form action="#" method="post">
+    <form action="file:///C:/Users/Saudi%20Gamerz/%D8%B3%D9%83%D8%B1%D8%A8%D8%AA%D8%A7%D8%AA%20%D8%A7%D8%B9%D9%85%D8%A7%D9%84/index.html/index.html#" method="post">
         <div class="error"></div>
         <label for="username">اسم المستخدم:</label>
         <input type="text" id="username" name="username">
@@ -75,5 +75,6 @@
         }
     });
 </script>
-</body>
-</html>
+
+
+</body></html>
